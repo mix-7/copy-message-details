@@ -13,9 +13,10 @@ remove "\n" to make headers copied in one line.
 
 Installation:  
 
-download zip file  
-Install Add-on from file  
+download zip file CopyMessaageDetails-add.zip  
+Install Add-on from file CopyMessaageDetails-add.zip  
 
+   
 
 Author: mix-7, https://github.com/mix-7  
 License: MIT 
