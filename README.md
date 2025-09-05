@@ -3,14 +3,19 @@ Add-on for Thunderbird, Betterbird: Copies the subject, sender, recipient, date,
 
 
 
-In the code, you can:
-comment out Unnecessary functions,
-configure the order of copied headers,
-remove "\n" to make headers copied in one line.
 
-Installation:
-download zip file
-Install Add-on from file
+In the code, you can: 
 
-Author: mix-7, https://github.com/mix-7
+comment out Unnecessary functions,  
+configure the order of copied headers,  
+remove "\n" to make headers copied in one line.  
+
+
+Installation:  
+
+download zip file  
+Install Add-on from file  
+
+
+Author: mix-7, https://github.com/mix-7  
 License: MIT 
